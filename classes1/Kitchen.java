@@ -9,6 +9,12 @@ class Kitchen{
         t.setDarkness(-2);
         t2.toast();
         t.toast();
+        System.out.println("------ Now we have an AIR FRYER!!!!");
+        AirFryer fryer = new AirFryer("Clark Kent");
+        fryer.slices = 12;
+        fryer.isBagel = true;
+        fryer.toast();
+        fryer.fry();
 
     }
 }
