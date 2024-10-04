@@ -5,3 +5,6 @@ This repository will hold the various examples and notes we use in this class in
 
 ---
 Mr. McLain
+
+# Valuable Robotics Links
+- [3rd Party Libaries](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#libraries "Moves to the library list")

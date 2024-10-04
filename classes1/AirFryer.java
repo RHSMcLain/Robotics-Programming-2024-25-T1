@@ -5,7 +5,15 @@ public class AirFryer extends Toaster {
 
     }
     public void fry(){
-
+        int n = 1; 
+        while (n <= 12){
+            System.out.print(n + "... ");
+            n++;
+        }
+        for(int x = 1; x <= 12; x += 2){
+            System.out.println(x);
+        }
+        System.out.println("---slice count coming:--");
         System.out.println(slices);
         System.out.println("YUM-- It is Fried.");
     }
